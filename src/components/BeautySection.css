@@ -1,0 +1,16 @@
+.beauty-section {
+  padding: 40px 20px;
+}
+
+.beauty-section h2 {
+  color: #ff4d88;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.beauty-products {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}

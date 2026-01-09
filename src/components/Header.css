@@ -1,0 +1,19 @@
+.header {
+  background-color: #ff4d88;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header input {
+  margin: 0 20px;
+  padding: 8px;
+  flex: 1;
+  border: none;
+  border-radius: 4px;
+}
+
+.cart {
+  font-weight: bold;
+}
