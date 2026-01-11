@@ -1,9 +1,10 @@
-console.log("PINKCART UPDATED - LIVE CHECK");
 
 import React from 'react';
 import BeautySection from './BeautySection';
+import BeautySection from './BeautySection';
 
 function Home({ search }) {
+  console.log("PINKCART UPDATED");
 
   const moisturizers = [
     {
