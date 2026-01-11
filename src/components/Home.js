@@ -1,6 +1,5 @@
 
-import React from 'react';
-import BeautySection from './BeautySection';
+  import React from 'react';
 import BeautySection from './BeautySection';
 
 function Home({ search }) {
