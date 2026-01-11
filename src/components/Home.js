@@ -1,3 +1,5 @@
+console.log("PINKCART UPDATED - LIVE CHECK");
+
 import React from 'react';
 import BeautySection from './BeautySection';
 
